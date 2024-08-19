@@ -1,0 +1,15 @@
+[debug] [2024-08-15T15:53:26.230Z] ----------------------------------------------------------------------
+[debug] [2024-08-15T15:53:26.232Z] Command:       /usr/local/bin/firebase /Users/diannguyxn/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase login
+[debug] [2024-08-15T15:53:26.232Z] CLI Version:   13.0.2
+[debug] [2024-08-15T15:53:26.233Z] Platform:      darwin
+[debug] [2024-08-15T15:53:26.233Z] Node Version:  v18.5.0
+[debug] [2024-08-15T15:53:26.240Z] Time:          Thu Aug 15 2024 22:53:26 GMT+0700 (Indochina Time)
+[debug] [2024-08-15T15:53:26.240Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as nguyendinhan0703@gmail.com
+[debug] [2024-08-15T15:53:36.304Z] Error: Timed out.
+    at Timeout._onTimeout (/Users/diannguyxn/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/utils.js:258:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
